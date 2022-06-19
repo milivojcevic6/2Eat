@@ -4,12 +4,9 @@
 		<div class="row text-center">
 			<div class="col-md-4">
 				<hr class="light">
-				<h5>Editors</h5>
+				<h5>Editor</h5>
 				<hr class="light">
 				<p>Milan Milivojcevic</p>
-				<p>Nikola Kovacevic</p>
-				<p>Franco Bebzuk</p>
-				<p>Karolina Trajkovska</p>
 			</div>
 			<div class="col-md-4">
 				<hr class="light">
